@@ -1,6 +1,6 @@
 {
   "Version": "1.0.5",
-  "ReleaseNotes": "Implemented working auto-update system with GitHub integration. Fixed app restart functionality and streamlined update process.",
+  "ReleaseNotes": "Implemented working auto-update system with GitHub integration. Fixed app restart functionality and streamlined update process. Added comprehensive version tracking and backup system.",
   "Mandatory": false,
   "UpdateZipId": "Software"
 }

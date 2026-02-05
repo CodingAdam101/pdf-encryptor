@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.4",
+  "Version": "1.0.5",
   "ReleaseNotes": "Implemented working auto-update system with GitHub integration. Fixed app restart functionality and streamlined update process.",
   "Mandatory": false,
   "UpdateZipId": "Software"

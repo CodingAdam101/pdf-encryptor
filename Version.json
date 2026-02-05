@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.9",
-  "ReleaseNotes": "Fixed app hanging issue during encryption and Outlook integration. Made PDF encryption and Outlook automation asynchronous to prevent UI freezing. Improved error handling for encrypted PDFs and Outlook COM automation. Enhanced user experience with progress feedback.",
+  "Version": "1.0.10",
+  "ReleaseNotes": "Fixed Outlook COM automation issues by reverting to simple, working code. Maintained async operations for UI responsiveness and PDF encryption fixes. Professional email body included.",
   "Mandatory": false,
   "UpdateZipId": "Software"
 }

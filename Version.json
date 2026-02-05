@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.8",
-  "ReleaseNotes": "Fixed PDF encryption owner password issue. Users can now encrypt PDF files without errors. Improved auto-update system stability and user experience.",
+  "Version": "1.0.9",
+  "ReleaseNotes": "Fixed app hanging issue during encryption and Outlook integration. Made PDF encryption and Outlook automation asynchronous to prevent UI freezing. Improved error handling for encrypted PDFs and Outlook COM automation. Enhanced user experience with progress feedback.",
   "Mandatory": false,
   "UpdateZipId": "Software"
 }

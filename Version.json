@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.5",
-  "ReleaseNotes": "Implemented working auto-update system with GitHub integration. Fixed app restart functionality and streamlined update process. Added comprehensive version tracking and backup system.",
+  "Version": "1.0.6",
+  "ReleaseNotes": "Fixed PDF encryption owner password issue. Users can now encrypt PDF files without errors. Improved auto-update system stability.",
   "Mandatory": false,
   "UpdateZipId": "Software"
 }

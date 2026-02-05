@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.7",
+  "Version": "1.0.8",
   "ReleaseNotes": "Fixed PDF encryption owner password issue. Users can now encrypt PDF files without errors. Improved auto-update system stability and user experience.",
   "Mandatory": false,
   "UpdateZipId": "Software"

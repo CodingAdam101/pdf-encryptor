@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.11",
-  "ReleaseNotes": "Completely rewritten Outlook email integration with simplified, reliable code. Creates new email with PDF attachment addressed to provided email address. Includes professional medical practice email body and subject. Maintains async operations for smooth UI experience.",
+  "Version": "1.0.13",
+  "ReleaseNotes": "Reverted Outlook integration to original v1.0.0 code that was working properly. Maintains all modern improvements: async operations for UI responsiveness, PDF encryption fixes, auto-update system, and better error handling. Best of both worlds - working Outlook with modern features.",
   "Mandatory": false,
   "UpdateZipId": "Software"
 }

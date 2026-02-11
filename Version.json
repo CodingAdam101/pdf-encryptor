@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.13",
-  "ReleaseNotes": "Reverted Outlook integration to original v1.0.0 code that was working properly. Maintains all modern improvements: async operations for UI responsiveness, PDF encryption fixes, auto-update system, and better error handling. Best of both worlds - working Outlook with modern features.",
+  "Version": "1.0.20",
+  "ReleaseNotes": "🎨 UI Overhaul with Custom Orange Buttons\n\n✨ New Features:\n• Custom orange tab buttons with green hover effects\n• Square button design (120x50px) with rounded corners\n• Improved tab switching with custom button navigation\n• Fixed selection and deletion functionality\n• Enhanced user experience with consistent styling\n\n🔧 Fixes:\n• Resolved app startup issues\n• Fixed 'Select All' and 'Delete Selected' functionality\n• Improved DataGrid selection mode\n• Enhanced button click responsiveness\n\n🎯 Design Changes:\n• All buttons now orange (#FF8C00) by default\n• Green hover effect (#00FF00) on all buttons\n• Custom tab buttons replace TabControl\n• Maintained dark blue theme throughout\n• Better visual consistency across the app",
   "Mandatory": false,
-  "UpdateZipId": "Software"
+  "UpdateZipId": ""
 }

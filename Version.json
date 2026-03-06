@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.20",
-  "ReleaseNotes": "🎨 UI Overhaul with Custom Orange Buttons\n\n✨ New Features:\n• Custom orange tab buttons with green hover effects\n• Square button design (120x50px) with rounded corners\n• Improved tab switching with custom button navigation\n• Fixed selection and deletion functionality\n• Enhanced user experience with consistent styling\n\n🔧 Fixes:\n• Resolved app startup issues\n• Fixed 'Select All' and 'Delete Selected' functionality\n• Improved DataGrid selection mode\n• Enhanced button click responsiveness\n\n🎯 Design Changes:\n• All buttons now orange (#FF8C00) by default\n• Green hover effect (#00FF00) on all buttons\n• Custom tab buttons replace TabControl\n• Maintained dark blue theme throughout\n• Better visual consistency across the app",
-  "Mandatory": false,
+  "Version": "1.0.21",
+  "ReleaseNotes": "🔧 Password Bug Fix - Critical Update\n\n🐛 Bug Fixes:\n• Fixed password caching issue - password now properly clears when selecting new PDF files\n• Ensures new passwords are used for each encryption operation\n• Prevents old passwords from being applied to new files\n\n✨ Features:\n• Orange button styling with green hover effects\n• Custom tab navigation (no TabControl issues)\n• Fixed Select All and Delete Selected functionality\n• No admin elevation required\n• Framework-dependent design for better compatibility\n\n🎯 Design:\n• All buttons orange (#FF8C00) with green hover (#00FF00)\n• Square button design (120x50px) with rounded corners\n• Dark blue theme maintained throughout\n• Consistent visual styling\n\n📦 Installation:\n• New users: Download PDFEncryptorSetup.exe\n• Existing users: Use auto-update or manual update package",
+  "Mandatory": true,
   "UpdateZipId": ""
 }
